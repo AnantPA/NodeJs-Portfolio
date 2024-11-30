@@ -1,0 +1,5 @@
+.env
+
+# Default Node.js-related ignores
+node_modules/
+# build/
